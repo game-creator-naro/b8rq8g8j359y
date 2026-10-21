@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "gameId": "b8rq8g8j359y",
+  "title": "♾️キーボード💗",
+  "versionId": "c38b94d6-d689-4fce-bec4-837eb0499b04",
+  "snapshotAt": "2026-10-21T15:57:54.670Z",
+  "playUrl": "https://gcn-play.com/play/b8rq8g8j359y",
+  "files": [
+    {
+      "path": "README.md",
+      "mime": "text/markdown; charset=utf-8",
+      "bytes": 1875,
+      "sha256": "ff0d393e833cf59b1205768201e2ed548558ce636143723789f63bd1d5a747b4"
+    },
+    {
+      "path": "index.html",
+      "mime": "text/html; charset=utf-8",
+      "bytes": 1056739,
+      "sha256": "5a99194d37a6e2711b17a433383f892cf906370b869bafcfa2a0b18c6b380fdd"
+    },
+    {
+      "path": "assets/images/bg_main.webp",
+      "mime": "image/webp",
+      "bytes": 48232,
+      "sha256": "7c7eb1fb0484c73a8c05cf7280e0d487e93f0553c262da7f62a2e08660701a94"
+    },
+    {
+      "path": "assets/sfx/se_key1.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "8c7e418a6f82c50393a48d28bc5c04a8a043404ded808eddc225e4a1be054fb2"
+    },
+    {
+      "path": "assets/sfx/se_key2.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "4ff2e642336ae6fa45a764f5b9e71c6112b17afb4ab6b0f84776380f09cc7560"
+    },
+    {
+      "path": "assets/sfx/se_key3.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "bbf742a0ebafcb57f34dbf497aa3ce9981442a1e8a9f198462c3825d9533a0e9"
+    },
+    {
+      "path": "assets/sfx/se_key4.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "d24ac6bb1cbc7bdd5b11fdbd0b778609e0c116feba789d3a5b3bb60546a291e8"
+    }
+  ],
+  "skipped": []
+}
