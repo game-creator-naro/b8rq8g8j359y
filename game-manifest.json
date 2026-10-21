@@ -2,8 +2,8 @@
   "schema": 1,
   "gameId": "b8rq8g8j359y",
   "title": "♾️キーボード💗",
-  "versionId": "c38b94d6-d689-4fce-bec4-837eb0499b04",
-  "snapshotAt": "2026-10-21T15:57:54.670Z",
+  "versionId": "8d7ff138-beb2-4727-ae70-86ed010a61ff",
+  "snapshotAt": "2026-10-21T15:58:08.201Z",
   "playUrl": "https://gcn-play.com/play/b8rq8g8j359y",
   "files": [
     {
@@ -15,38 +15,50 @@
     {
       "path": "index.html",
       "mime": "text/html; charset=utf-8",
-      "bytes": 1056739,
-      "sha256": "5a99194d37a6e2711b17a433383f892cf906370b869bafcfa2a0b18c6b380fdd"
+      "bytes": 3303948,
+      "sha256": "1878e292e2b3350a57e8aa27d531f7579f1a98ccdcf34118f6085d515ca05cc8"
     },
     {
-      "path": "assets/images/bg_main.webp",
-      "mime": "image/webp",
-      "bytes": 48232,
-      "sha256": "7c7eb1fb0484c73a8c05cf7280e0d487e93f0553c262da7f62a2e08660701a94"
+      "path": "assets/images/banana.png",
+      "mime": "image/png",
+      "bytes": 137096,
+      "sha256": "3ad51cfdc81f852a9503aa86c9990c89d9834378cd4d04cbf97a462aed3a7e3b"
     },
     {
-      "path": "assets/sfx/se_key1.wav",
+      "path": "assets/images/grapes.png",
+      "mime": "image/png",
+      "bytes": 195698,
+      "sha256": "b8892a8773accc8707b72ef65a09f8efbd21d62e8f4a132a7259dad767f70053"
+    },
+    {
+      "path": "assets/images/melon.png",
+      "mime": "image/png",
+      "bytes": 252737,
+      "sha256": "5104b1f48784077cbe7ed98fed520afd616a623fcceac8977a3212bb2f8e18a0"
+    },
+    {
+      "path": "assets/images/orange.png",
+      "mime": "image/png",
+      "bytes": 178528,
+      "sha256": "13f90394abfe4211af636ce1bdd08bf0d701756b1c36a3e09bf7428aa069813d"
+    },
+    {
+      "path": "assets/images/strawberry.png",
+      "mime": "image/png",
+      "bytes": 177200,
+      "sha256": "5a69d7537d47172fe562900f6ceb82ec51aec037043c499fd280133f8da76b83"
+    },
+    {
+      "path": "assets/music/bgm_calm.wav",
+      "mime": "audio/wav",
+      "bytes": 1323044,
+      "sha256": "3948a3722d26347b938505f7eabbf534df1ec8c1b9ba8c9687de4c8f8f587b4b"
+    },
+    {
+      "path": "assets/sfx/se_pop.wav",
       "mime": "audio/wav",
       "bytes": 176478,
-      "sha256": "8c7e418a6f82c50393a48d28bc5c04a8a043404ded808eddc225e4a1be054fb2"
-    },
-    {
-      "path": "assets/sfx/se_key2.wav",
-      "mime": "audio/wav",
-      "bytes": 176478,
-      "sha256": "4ff2e642336ae6fa45a764f5b9e71c6112b17afb4ab6b0f84776380f09cc7560"
-    },
-    {
-      "path": "assets/sfx/se_key3.wav",
-      "mime": "audio/wav",
-      "bytes": 176478,
-      "sha256": "bbf742a0ebafcb57f34dbf497aa3ce9981442a1e8a9f198462c3825d9533a0e9"
-    },
-    {
-      "path": "assets/sfx/se_key4.wav",
-      "mime": "audio/wav",
-      "bytes": 176478,
-      "sha256": "d24ac6bb1cbc7bdd5b11fdbd0b778609e0c116feba789d3a5b3bb60546a291e8"
+      "sha256": "df2bf6b1fffe09b5b06d9350e95068d6bb1e7f3a390e5baf9d52ea7ee8a25011"
     }
   ],
   "skipped": []
